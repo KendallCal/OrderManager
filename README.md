@@ -1,6 +1,6 @@
 # Registro de Pedidos XDesign
 
-**Registro de Pedidos XDesign** es un proyecto en Java desarrollado para la asignatura de Estructura de Datos (Código: 00825) en el II Cuatrimestre de 2024 en la Universidad Estatal a Distancia (UNED). Este sistema gestiona pedidos de camisetas estampadas para una empresa ficticia, XDesign.
+**Registro de Pedidos XDesign** es un proyecto en Java desarrollado para la asignatura de Estructura de Datos en el II Cuatrimestre de 2024 en la Universidad Estatal a Distancia (UNED). Este sistema gestiona pedidos de camisetas estampadas para una empresa ficticia, XDesign.
 
 ## Descripción del Proyecto
 
