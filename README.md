@@ -7,10 +7,21 @@
 Este programa permite llevar un registro de pedidos de camisetas mediante una interfaz gráfica. Las funcionalidades principales incluyen:
 
 - **Registro de Pedidos:** Agrega pedidos con campos como ID, tipo de camiseta, talla, cantidad, código de diseño, tipo de pedido, dirección de entrega, forma de pago, número telefónico y nombre del cliente.
+<img src="Demostración/Registro.png" alt="Captura" width="700" />
+
 - **Listado de Pedidos:** Muestra todos los pedidos en una tabla.
+<img src="Demostración/Pedidos.png" alt="Captura" width="700" />
+
 - **Búsqueda y Edición:** Busca pedidos por número telefónico y permite la edición de detalles, excepto el ID del pedido.
+<img src="Demostración/Edición.png" alt="Captura" width="700" />
+
 - **Comparación de Valores:** Convierte la cantidad de un pedido de decimal a binario usando recursión.
+<img src="Demostración/Comparación.png" alt="Captura" width="700" />
+
 - **Ordenamiento:** Ordena pedidos por número telefónico (ascendente) y código de diseño (descendente) utilizando algoritmos de ordenamiento específicos.
+<img src="Demostración/Ordenamiento.png" alt="Captura" width="700" />
+
+También puedes ver el [Video Demostración](Demostración/Demo.mp4) completo.
 
 ## Tecnologías Utilizadas
 
